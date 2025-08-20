@@ -1,0 +1,1 @@
+sudo pacman -Syu sway xorg-xwayland vim rofi 
