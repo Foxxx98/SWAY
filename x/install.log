@@ -1,9 +1,0 @@
-[23:38:52 2025-10-24] FETCHING Version 2.42.0
-[23:38:52 2025-10-24] DOWNLOADING https://github.com/spicetify/cli/releases/download/v2.42.0/spicetify-2.42.0-linux-amd64.tar.gz
-[23:38:53 2025-10-24] EXTRACTING /home/daxur/.spicetify/spicetify.tar.gz
-[23:38:53 2025-10-24] SETTING EXECUTABLE PERMISSIONS TO /home/daxur/.spicetify/spicetify
-[23:38:53 2025-10-24] REMOVING /home/daxur/.spicetify/spicetify.tar.gz
-[23:38:53 2025-10-24] spicetify path already set in /home/daxur/.bashrc, continuing...
-[23:38:53 2025-10-24] spicetify path already set in /home/daxur/.bash_profile, continuing...
-[23:38:53 2025-10-24] spicetify v2.42.0 was installed successfully to /home/daxur/.spicetify
-[23:38:53 2025-10-24] Run 'spicetify --help' to get started
