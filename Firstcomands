@@ -1,4 +1,5 @@
 morewaita-icon-theme waybar hyprland atlauncher-bin 
 japan font noto-fonts-cjk
+animated wallpaper https://github.com/Almamu/linux-wallpaperengine
 
 gtk3 install https://github.com/nwg-piotr/nwg-look and create folders in ~/.local/share/ icons themes fonts
